@@ -1,129 +1,62 @@
-<!-- Daghlar Mammadov README.md -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/7243353/242949875-0f3f02ac-78f7-44a6-8ac3-4e23e6289f3f.gif" width="180" alt="Daghlar Animated Avatar"/>
-</p>
+  1 # Daghlar Mammadov | Cybersecurity Researcher & System Engineer
+    2 
+    3 <p align="left">
+    4   <a href="https://github.com/xdaghlar?tab=followers">
+    5     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xdaghlar?label=followers&style=social"/></a>
+    6   <a href="https://twitter.com/xdaghlar">
+    7     <img alt="Twitter" src="https://img.shields.io/twitter/follow/xdaghlar.svg?style=social&label=Follow"/>
+    8   </a>
+    9 </p>
+   10 
+   11 ---
+   12 
+   13 ### Hi there, I'm Daghlar 👋
+   14 
+   15 I am a Cybersecurity Researcher, System Engineer, and AI enthusiast with over a decade of hands-on technology experience. My work focuses on the intersection of offensive
+      security, artificial intelligence, and low-level system development. I am passionate about building secure, high-performance systems and leading technical communities.
+   16 
+   17 Currently, I am a second-year B.Sc. Computer Engineering student at **Nişantaşı University** and the President of the **Siber Tun Club**.
+   18 
+   19 ---
+   20 
+   21 ### 🎯 Core Competencies & Research Interests
+   22 
+   23 My expertise is centered around three main pillars. I am constantly exploring the boundaries of these fields to develop innovative solutions and contribute to the open-source
+      community.
+   24 
+   25 <details>
+   26 <summary><b>🛡 Offensive Security & Red Team Operation</b></summary>
+   27 <br>
+   28 I specialize in simulating advanced adversaries to identify and mitigate complex security threats. My work includes:
+   29 <ul>
+   30   <li>Advanced Penetration Testing & Custom Exploit Development</li>
+   31   <li>Adversary Emulation & Covert Infrastructure Design (C2)</li>
+   32   <li>OSINT Research & Threat Intelligence Analysis</li>
+   33   <li>Vulnerability Research & Security Tooling Automation</li>
+   34   <li>Incident Response & Proactive Threat Hunting</li>
+   35 </ul>
+   36 </details>
+   37 
+   38 <details>
+   39 <summary><b>🤖 Artificial Intelligence & Adversarial ML</b></summary>
+   40 <br>
+   41 I build and secure intelligent systems, with a strong focus on the security implications of AI.
+   42 <ul>
+   43   <li>Neural Network Architecture & Deep Learning Models</li>
+   44   <li>AI Security & Adversarial Machine Learning (Evasion, Poisoning)</li>
+   45   - AI-Driven Threat Detection & Defense Mechanisms</li>
+   46   <li>Model Optimization & Deployment (TensorFlow, PyTorch)</li>
+   47 </ul>
+   48 </details>
+   49 
+   50 <details>
+   51 <summary><b>⚙ System Engineering & Low-Level Development</b></summary>
+   52 <br>
+   53 I have a deep passion for understanding and building systems from the ground up.
+   54 <ul>
+   55   <li>Operating System Internals & Kernel Programming (Linux)</li>
+   56   <li>System Performance Optimization & Custom Driver Development</li>
+   57   <li>Custom Web Browser & Rendering Engine Development</li>
+   58   <li>Advanced Linux/Unix-Based System Administration</li>
+   59 </ul>
 
-<h1 align="center" style="font-weight:900; letter-spacing: 2px;">
-  Daghlar Mammadov
-</h1>
-
-<p align="center" style="font-style: italic; font-size: 18px; max-width: 600px; margin: auto;">
-  🚀 Red Team Operator & Cybersecurity Expert | 🤖 AI & Machine Learning Architect | 🔧 System & Kernel Developer
-</p>
-
----
-
-## 👁️‍🗨️ About Me
-
-I am a passionate security researcher and AI engineer with **13+ years of experience** in offensive security, system-level programming, and AI-powered solutions.  
-Currently, a Computer Engineering student and community leader actively shaping the future of cybersecurity education and innovation.
-
----
-
-## 🔥 What I Do
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="50" alt="Red Team Icon" />
-        <h4>Red Team Operations</h4>
-        <p>Penetration Testing, Exploit Dev, OSINT, Adversary Simulation</p>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="AI Icon" />
-        <h4>AI & Machine Learning</h4>
-        <p>Neural Networks, Deep Learning, TensorFlow, PyTorch, Adversarial AI</p>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="System Icon" />
-        <h4>System Engineering</h4>
-        <p>Kernel Programming, OS Dev, Browser Engine, Performance Tuning</p>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="Full Stack Icon" />
-        <h4>Full Stack Dev</h4>
-        <p>React, Next.js, Node.js, TypeScript, Docker, Kubernetes</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🚀 Projects & Repos
-
-| Project        | Description                               | Link                                         |
-|----------------|-------------------------------------------|----------------------------------------------|
-| TunUAV         | Custom UAV Control Panel & Flight Software | [github.com/daghlar/TunUAV](https://github.com/daghlar/TunUAV) |
-| TunOS          | Secure Android-based Operating System    | [github.com/daghlar/TunOs](https://github.com/daghlar/TunOs)   |
-| TunPortfolio   | Personal Portfolio & Community Platform  | [github.com/daghlar/Portfolio](https://github.com/daghlar/Portfolio) |
-| Security Labs  | Red Team & Cybersecurity Training Platform | [tuntalks.com](https://tuntalks.com)                             |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdaghlar&theme=dark&show_icons=true&hide_border=true" alt="Daghlar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaghlar&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Contact & Social
-
-<p align="center">
-  <a href="mailto:daghlarmammadov@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail" alt="ProtonMail"></a>
-  <a href="mailto:daghlarmammadov@tutanota.de"><img src="https://img.shields.io/badge/Email-Tutanota-green?style=for-the-badge&logo=tutanota" alt="Tutanota"></a>
-  <a href="mailto:daghlarmammadov@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
-  <br/>
-  <a href="https://matrix.to/#/@daghlar:matrix.org"><img src="https://img.shields.io/badge/Matrix-Element-blueviolet?style=for-the-badge&logo=matrix" alt="Matrix"/></a>
-  <a href="https://tuntalks.com"><img src="https://img.shields.io/badge/Tuntalks-Community-yellowgreen?style=for-the-badge&logo=googlescholar" alt="Tuntalks"/></a>
-  <a href="https://preprod.kureansiklopedi.org/en/profil/daghlar"><img src="https://img.shields.io/badge/Küre-Ansiklopedi-darkgreen?style=for-the-badge&logo=readthedocs" alt="Küre Ansiklopedi"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@Daghlar"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/daghlar"><img src="https://img.shields.io/badge/Twitch-Channel-purple?style=for-the-badge&logo=twitch" alt="Twitch"></a>
-  <a href="https://kick.com/daghlar"><img src="https://img.shields.io/badge/Kick-Streaming-red?style=for-the-badge&logo=kick" alt="Kick"></a>
-  <a href="https://rutube.ru/@daghlar"><img src="https://img.shields.io/badge/Rutube-Video-darkred?style=for-the-badge&logo=rutube" alt="Rutube"></a>
-  <a href="https://odysee.com/@daghlar:6"><img src="https://img.shields.io/badge/Odysee-Video-black?style=for-the-badge&logo=odysee" alt="Odysee"></a>
-</p>
-
-<p align="center">
-  <a href="https://pixelfed.social/daghlar"><img src="https://img.shields.io/badge/Pixelfed-Photo-orange?style=for-the-badge&logo=pixelfed" alt="Pixelfed"></a>
-  <a href="https://kick.com/daghlar"><img src="https://img.shields.io/badge/Kick-Streaming-red?style=for-the-badge&logo=kick" alt="Kick"></a>
-  <a href="https://mastodon.social/@daghlar"><img src="https://img.shields.io/badge/Mastodon-Social-blue?style=for-the-badge&logo=mastodon" alt="Mastodon"></a>
-  <a href="https://bsky.app/profile/daghlar.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Social-lightblue?style=for-the-badge&logo=bluesky" alt="Bluesky"></a>
-  <a href="https://t.me/daghlar"><img src="https://img.shields.io/badge/Telegram-Messaging-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/xdaghlar"><img src="https://img.shields.io/badge/Twitter-X-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://instagram.com/xdaghlar"><img src="https://img.shields.io/badge/Instagram-Photo-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="https://www.reddit.com/user/xDaghlar"><img src="https://img.shields.io/badge/Reddit-Community-orange?style=for-the-badge&logo=reddit" alt="Reddit"></a>
-  <a href="https://medium.com/@daghlar"><img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" alt="Medium"></a>
-</p>
-
----
-
-## 🎓 Certifications
-
-- Offensive Security Certified Professional (OSCP) — Ongoing  
-- Practical Web Application Security — TunAcademy  
-- Advanced Red Team Infrastructure — Internal Training  
-- AI Security & Adversarial ML — Research-Based  
-- Linux Kernel Internals & OS Development — TunLabs
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xdaghlar&theme=github" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
-<p align="center">
-  Crafted with 🔥 and ☕ by Daghlar Mammadov  
-</p>
