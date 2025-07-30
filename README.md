@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daghlar%20Mammadov&fontSize=40&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%7C%20System%20Engineer&descSize=20&animation=fadeIn"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Daghlar%20Mammadov&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20System%20Engineer%20%7C%20Open%20Source%20Innovator&descSize=22&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Daghlar%20Mammadov&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20System%20Engineer%20%7C%20Open%20Source%20Innovator&descSize=22&animation=twinkling"/>
+  </picture>
 </div>
 
 <p align="center">
@@ -21,7 +24,7 @@ I'm **Daghlar Mammadov**, a multidisciplinary technologist from **Azerbaijan**, 
 - 🤖 AI/ML (Neural Architecture, AI Security, Deep Learning)
 - 🌐 Full Stack Web Development
 
-> I'm the founder of **TunTalks.com**, president of **Siber Tun Club**, and a 2nd-year **Computer Engineering** student at **Nişantaşı University**.
+> Founder of **TunTalks.com** — President of **Siber Tun Club** — 2nd-year **Computer Engineering** student at **Nişantaşı University**.
 
 ---
 
@@ -37,7 +40,6 @@ I'm **Daghlar Mammadov**, a multidisciplinary technologist from **Azerbaijan**, 
 
 - 🔹 [TunUAV](https://github.com/daghlar/TunUAV) — UAV Control Interface Software
 - 🔹 [TunOS](https://github.com/daghlar/TunOs) — Secure Android OS
-- 🔹 [AthenaOS](https://thenaos.org/en/getting-started/download/) — AI-driven Linux distro
 - 🔹 [Portfolio](https://github.com/daghlar/Portfolio) — Personal React-based site
 
 ---
@@ -87,8 +89,14 @@ A public knowledge hub for cybersecurity, AI, and technical innovation.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=tokyonight&hide_border=true" width="49%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=default&hide_border=true" width="49%"/>
+  </picture>
 </p>
 
 ---
@@ -99,6 +107,8 @@ A public knowledge hub for cybersecurity, AI, and technical innovation.
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer"/>
+  </picture>
 </div>
-
