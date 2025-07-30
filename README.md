@@ -1,107 +1,95 @@
-<h1 align="center">👨‍💻 Daghlar Mammadov</h1>
-<p align="center">
-  <b>Cybersecurity Researcher | System Engineer | AI Developer</b><br/>
-  <i>Building security, systems & intelligence — one line of code at a time.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daghlar%20Mammadov&fontSize=40&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20%7C%20System%20Engineer&descSize=20&animation=fadeIn"/>
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/xdaghlar"><img src="https://img.shields.io/badge/LinkedIn-xdaghlar-blue?logo=linkedin&style=flat-square"></a>
-  <a href="https://t.me/daghlar"><img src="https://img.shields.io/badge/Telegram-@daghlar-2CA5E0?logo=telegram&style=flat-square"></a>
-  <a href="mailto:daghlarmammadov@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?logo=protonmail&style=flat-square"></a>
-  <a href="https://medium.com/@daghlar"><img src="https://img.shields.io/badge/Medium-@daghlar-black?logo=medium&style=flat-square"></a>
-  <a href="https://daghlar.bsky.social"><img src="https://img.shields.io/badge/Bluesky-daghlar-blue?logo=bluesky&style=flat-square"></a>
+  <a href="https://linkedin.com/in/xdaghlar"><img src="https://img.shields.io/badge/LinkedIn-xdaghlar-blue?logo=linkedin"></a>
+  <a href="mailto:daghlarmammadov@proton.me"><img src="https://img.shields.io/badge/Email-Contact-8B89CC?logo=protonmail"></a>
+  <a href="https://t.me/daghlar"><img src="https://img.shields.io/badge/Telegram-@daghlar-2CA5E0?logo=telegram"></a>
+  <a href="https://x.com/xdaghlar"><img src="https://img.shields.io/badge/Twitter-@xdaghlar-1DA1F2?logo=twitter"></a>
+  <a href="https://github.com/daghlar"><img src="https://img.shields.io/github/followers/daghlar?label=GitHub&style=social"></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm **Daghlar Mammadov**, a cybersecurity enthusiast, AI systems architect, and system engineer with over **13 years of experience in technology**.  
-Currently studying **Computer Engineering** at **Nişantaşı University**, I specialize in Red Team operations, OS development, and AI-driven security models.
+I'm **Daghlar Mammadov**, a multidisciplinary technologist from **Azerbaijan**, based in **Istanbul, Turkey**. I specialize in:
 
-- 🛡️ **Red Team / Offensive Security**
-- 🧬 **AI / ML System Design**
-- ⚙️ **Operating System & Kernel Development**
-- 🌐 **Full Stack Web Engineering**
-- 🗣️ Native in Azerbaijani, fluent in Turkish, learning Arabic, Chinese, Persian, and more.
+- 🛡️ Offensive Security (Red Team, Exploit Dev, OSINT)
+- ⚙️ System Engineering (OS Dev, Kernel, Infrastructure)
+- 🤖 AI/ML (Neural Architecture, AI Security, Deep Learning)
+- 🌐 Full Stack Web Development
 
----
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-Python, Rust, Go, C++, TypeScript, JavaScript, Shell
-
-**Frameworks & Tools:**  
-TensorFlow, PyTorch, React, Next.js, Node.js, Docker, Kubernetes, Git
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB
-
-**OS & Systems:**  
-Linux (Advanced), Unix Systems, Custom OS Development
+> I'm the founder of **TunTalks.com**, president of **Siber Tun Club**, and a 2nd-year **Computer Engineering** student at **Nişantaşı University**.
 
 ---
 
-## 🔬 Research Interests
+## 🚀 Tech Stack
 
-- Advanced Threat Detection Systems  
-- AI-Supported Cyber Defense  
-- Neural Architecture Design  
-- Custom Kernel & OS-Level Security  
-- Privacy-Focused Open Source Solutions  
-- Cross-cultural Tech Integration & Education
+| Languages      | Frameworks & Tools     | Databases           | OS & Systems           |
+| -------------- | ---------------------- | ------------------- | ---------------------- |
+| Python, Rust, Go, C++, JS/TS, Shell | TensorFlow, PyTorch, React, Next.js, Node.js | PostgreSQL, MySQL, MongoDB | Linux, Unix, Custom OS Dev |
 
 ---
 
-## 📚 Community & Leadership
+## 📌 Key Projects
 
-### 🧪 SIBER TUN CLUB – President  
-Leading technical workshops, building lab infrastructure, and mentoring cybersecurity students.
-
-### 🎓 TUNTALKS.COM – Founder  
-A community knowledge hub focused on security research, education, and open collaboration.
+- 🔹 [TunUAV](https://github.com/daghlar/TunUAV) — UAV Control Interface Software
+- 🔹 [TunOS](https://github.com/daghlar/TunOs) — Secure Android OS
+- 🔹 [AthenaOS](https://thenaos.org/en/getting-started/download/) — AI-driven Linux distro
+- 🔹 [Portfolio](https://github.com/daghlar/Portfolio) — Personal React-based site
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Platforms & Presence
 
-**🔗 Main Platforms:**
+### 📡 Professional
+- [LinkedIn](https://linkedin.com/in/xdaghlar)
+- [Medium](https://medium.com/@daghlar)
+- [Udemy](https://www.udemy.com/user/tunacademy/)
+- [Küre Ansiklopedi](https://preprod.kureansiklopedi.com/en/profil/daghlar)
 
-- LinkedIn: [xdaghlar](https://linkedin.com/in/xdaghlar)  
-- Medium: [@daghlar](https://medium.com/@daghlar)  
-- Udemy: [tunacademy](https://www.udemy.com/user/tunacademy/)  
-- Küre Ansiklopedi: [/en/profil/daghlar](https://preprod.kureansiklopedi.com/en/profil/daghlar)
+### 🔊 Media & Streaming
+- [YouTube](https://www.youtube.com/@Daghlar)
+- [Twitch](https://twitch.tv/daghlar)
+- [Kick](https://kick.com/daghlar)
+- [Rutube](https://rutube.ru/@daghlar)
+- [Odysee](https://odysee.com/@daghlar:6)
+- [Pixelfed](https://pixelfed.social/daghlar)
 
-**📺 Media & Tech Presence:**
-
-- Twitter (X): [@xdaghlar](https://x.com/xdaghlar)  
-- YouTube: [@Daghlar](https://www.youtube.com/@Daghlar)  
-- Instagram: [@xdaghlar](https://instagram.com/xdaghlar)  
-- Twitch: [daghlar](https://twitch.tv/daghlar)  
-- Kick: [daghlar](https://kick.com/daghlar)  
-- Rutube: [@daghlar](https://rutube.ru/@daghlar)  
-- Odysee: [@daghlar](https://odysee.com/@daghlar:6)  
-- Pixelfed: [daghlar](https://pixelfed.social/daghlar)
-
-**💬 Secure Communication:**
-
-- Matrix: [@daghlar:matrix.org](https://matrix.to/#/@daghlar:matrix.org)  
-- ProtonMail: daghlarmammadov@proton.me  
+### 🔐 Secure Communication
+- [Matrix](https://matrix.to/#/@daghlar:matrix.org)
+- ProtonMail: daghlarmammadov@proton.me
 - Tutanota: daghlarmammadov@tutanota.de
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Community Leadership
 
-Here are a few open-source highlights:
+### 🧪 Siber Tun Club — President
+Leading cybersecurity education, events, labs, and community growth.
 
-- 🎯 [TunUAV](https://github.com/daghlar/TunUAV) – UAV Control Panel Software  
-- 📱 [TunOS](https://github.com/daghlar/TunOs) – Custom Android-Based OS  
-- 🌐 [Portfolio Website](https://github.com/daghlar/Portfolio) – My personal portfolio in React  
-- 🧠 [AthenaOS](https://thenaos.org/en/getting-started/download/) – AI-enhanced Linux distribution
+### 💡 TunTalks.com — Founder
+A public knowledge hub for cybersecurity, AI, and technical innovation.
 
-> I believe in open knowledge, transparent systems, and borderless tech education.
+---
+
+## 🧠 Research Interests
+
+- AI-Driven Security Systems
+- Threat Intelligence & Detection
+- OS & Kernel Security
+- Educational Platform Design
+- Multilingual Tech Development
+- Privacy & Open Source Solutions
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
 
 ---
 
@@ -109,4 +97,8 @@ Here are a few open-source highlights:
   <i>"Let code be your sword. Let curiosity be your shield."</i><br/>
   — Daghlar Mammadov
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
