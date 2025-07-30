@@ -16,44 +16,65 @@
   <img src="https://img.shields.io/badge/University-Nişantaşı-purple?style=for-the-badge&logo=university"/>
 </p>
 
-<!-- GLOWING SOCIAL BADGES -->
+<!-- PRIMARY SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/xdaghlar">
     <img src="https://img.shields.io/badge/LinkedIn-xdaghlar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/xdaghlar">
-    <img src="https://img.shields.io/badge/Telegram-@xdaghlar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/daghlar">
+    <img src="https://img.shields.io/badge/Telegram-@daghlar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/xdaghlar">
-    <img src="https://img.shields.io/badge/Twitter-@xdaghlar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/xdaghlar">
+    <img src="https://img.shields.io/badge/X-@xdaghlar-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@xdaghlar">
-    <img src="https://img.shields.io/badge/YouTube-@xdaghlar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.youtube.com/@Daghlar">
+    <img src="https://img.shields.io/badge/YouTube-@Daghlar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 <!-- SECONDARY SOCIAL LINKS -->
 <p align="center">
-  <a href="https://bsky.app/profile/xdaghlar.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-xdaghlar-00D4FF?style=flat-square&logo=bluesky&logoColor=white"/>
+  <a href="https://www.instagram.com/@xdaghlar">
+    <img src="https://img.shields.io/badge/Instagram-@xdaghlar-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://threads.net/@xdaghlar">
-    <img src="https://img.shields.io/badge/Threads-@xdaghlar-000000?style=flat-square&logo=threads&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@xdaghlar">
+  <a href="https://www.tiktok.com/@xdaghlar">
     <img src="https://img.shields.io/badge/TikTok-@xdaghlar-000000?style=flat-square&logo=tiktok&logoColor=white"/>
   </a>
+  <a href="https://bsky.app/profile/daghlar.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-daghlar-00D4FF?style=flat-square&logo=bluesky&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/xDaghlar/">
+    <img src="https://img.shields.io/badge/Reddit-xDaghlar-FF4500?style=flat-square&logo=reddit&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@daghlar">
+    <img src="https://img.shields.io/badge/Medium-@daghlar-12100E?style=flat-square&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+<!-- EDUCATION & PROFESSIONAL PLATFORMS -->
+<p align="center">
   <a href="https://teknofest.org/profile/xdaghlar">
     <img src="https://img.shields.io/badge/Teknofest-xdaghlar-FF6B35?style=flat-square&logo=trophy&logoColor=white"/>
+  </a>
+  <a href="https://udemy.com/user/tunacademy">
+    <img src="https://img.shields.io/badge/Udemy-TunAcademy-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
   </a>
   <a href="https://kick.com/xdaghlar">
     <img src="https://img.shields.io/badge/Kick-xdaghlar-53FC18?style=flat-square&logo=kickstarter&logoColor=white"/>
   </a>
 </p>
 
+<!-- EMAIL & SECURE COMMUNICATION -->
+<p align="center">
+  <strong>📧 Contact & Secure Communication:</strong><br/>
+  <img src="https://img.shields.io/badge/ProtonMail-daghlarmammadov@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-daghlarmammadov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tutanota-daghlarmammadov@tutanota.de-840010?style=flat-square&logo=tutanota&logoColor=white"/>
+</p>
+
 <!-- PRIVACY-FOCUSED COMMUNICATION -->
 <p align="center">
-  <strong>🔐 Secure Communication Channels:</strong><br/>
+  <strong>🔐 Encrypted Channels:</strong><br/>
   <img src="https://img.shields.io/badge/QTox-xdaghlar@qtox.me-00FF00?style=flat-square&logo=shield"/>
   <img src="https://img.shields.io/badge/Session-xdaghlar.session-1AB394?style=flat-square&logo=session"/>
   <img src="https://img.shields.io/badge/Element-@xdaghlar:matrix.org-0DBD8B?style=flat-square&logo=element"/>
@@ -187,17 +208,69 @@ class DaghlarMammadov:
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics Dashboard**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **Technical Expertise Dashboard**
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xdaghlar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xdaghlar&theme=radical&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xdaghlar&custom_title=Daghlar's%20Innovation%20Journey&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" />
+### **📊 13 Years of Development Experience**
 
-<!-- LANGUAGE STATS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaghlar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff" />
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/coding.gif?raw=true" width="100"/>
+<br><strong>💻 Active Development</strong>
+<br>📅 <strong>13 Years</strong> of Coding
+<br>🏆 <strong>100+</strong> Projects Completed
+<br>🌟 <strong>Open Source</strong> Contributor
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/ai.gif?raw=true" width="100"/>
+<br><strong>🤖 AI & Security Focus</strong>
+<br>🛡️ <strong>Cybersecurity</strong> Expert
+<br>🧠 <strong>AI/ML</strong> Specialist
+<br>🔍 <strong>OSINT</strong> Professional
+</td>
+</tr>
+</table>
+
+### **🛠️ Technical Stack Proficiency**
+
+<table align="center">
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img src="https://img.shields.io/badge/Expert-90%25-success?style=flat-square"/></td>
+<td>HTML, CSS, React, Next.js, TypeScript</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td><img src="https://img.shields.io/badge/Expert-85%25-success?style=flat-square"/></td>
+<td>Node.js, Python, Go, Rust, C++</td>
+</tr>
+<tr>
+<td><strong>AI/ML</strong></td>
+<td><img src="https://img.shields.io/badge/Advanced-80%25-brightgreen?style=flat-square"/></td>
+<td>TensorFlow, PyTorch, Custom Models</td>
+</tr>
+<tr>
+<td><strong>Cybersecurity</strong></td>
+<td><img src="https://img.shields.io/badge/Expert-95%25-success?style=flat-square"/></td>
+<td>OSINT, AppSec, Network Security</td>
+</tr>
+<tr>
+<td><strong>System Admin</strong></td>
+<td><img src="https://img.shields.io/badge/Advanced-75%25-brightgreen?style=flat-square"/></td>
+<td>Linux/Unix, Docker, Cloud Platforms</td>
+</tr>
+</table>
+
+### **🎯 Achievement Highlights**
+
+<p align="center">
+<img src="https://img.shields.io/badge/🏛️_Siber_TUN-Club_President-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💬_TunTalks-Forum_Founder-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Custom_OS-Developer-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗣️_10+_Languages-Polyglot-purple?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -342,32 +415,37 @@ timeline
 </tr>
 <tr>
 <td>
-• <a href="https://youtube.com/@xdaghlar">YouTube</a> - Tech tutorials<br/>
-• <a href="https://tiktok.com/@xdaghlar">TikTok</a> - Quick tips<br/>
-• <a href="https://kick.com/xdaghlar">Kick</a> - Live coding<br/>
+• <a href="https://www.youtube.com/@Daghlar">YouTube</a> - Tech tutorials & insights<br/>
+• <a href="https://www.tiktok.com/@xdaghlar">TikTok</a> - Quick cybersecurity tips<br/>
+• <a href="https://kick.com/xdaghlar">Kick</a> - Live coding streams<br/>
+• <a href="https://medium.com/@daghlar">Medium</a> - Technical articles<br/>
 • <a href="https://odysee.com/@xdaghlar">Odysee</a> - Decentralized content<br/>
 • <a href="https://rutube.ru/channel/xdaghlar">Rutube</a> - Russian audience
 </td>
 <td>
-• <a href="https://twitter.com/xdaghlar">Twitter/X</a> - Tech insights<br/>
-• <a href="https://threads.net/@xdaghlar">Threads</a> - Quick updates<br/>
-• <a href="https://bsky.app/profile/xdaghlar.bsky.social">Bluesky</a> - Decentralized social<br/>
+• <a href="https://x.com/xdaghlar">X (Twitter)</a> - Tech insights & news<br/>
+• <a href="https://www.instagram.com/@xdaghlar">Instagram</a> - Behind the scenes<br/>
+• <a href="https://bsky.app/profile/daghlar.bsky.social">Bluesky</a> - Decentralized social<br/>
 • <a href="https://linkedin.com/in/xdaghlar">LinkedIn</a> - Professional network<br/>
+• <a href="https://www.reddit.com/user/xDaghlar/">Reddit</a> - Community discussions<br/>
 • <a href="https://pixelfed.social/@xdaghlar">Pixelfed</a> - Photo sharing
 </td>
 <td>
+• <strong>ProtonMail:</strong> daghlarmammadov@proton.me<br/>
+• <strong>Gmail:</strong> daghlarmammadov@gmail.com<br/>
+• <strong>Tutanota:</strong> daghlarmammadov@tutanota.de<br/>
 • <strong>QTox:</strong> xdaghlar@qtox.me<br/>
 • <strong>Session:</strong> xdaghlar.session<br/>
 • <strong>Element:</strong> @xdaghlar:matrix.org<br/>
-• <a href="https://t.me/xdaghlar">Telegram</a> - @xdaghlar<br/>
-• Encrypted communications preferred
+• <a href="https://t.me/daghlar">Telegram</a> - @daghlar
 </td>
 </tr>
 </table>
 
-### **🏆 Professional Profiles**
+### **🏆 Professional & Educational Platforms**
 - **🚀 Teknofest:** [Main Profile](https://teknofest.org/profile/xdaghlar) | [Social](https://sosyal.teknofest.app/@daghlarmammadov)
 - **📚 Küre Ansiklopedi:** [Academic Profile](https://preprod.kureansiklopedi.com/en/profil/daghlar)
+- **🎓 Udemy:** [TunAcademy](https://udemy.com/user/tunacademy) - Cybersecurity Courses
 
 **Collaboration Interests:**
 - 🤖 **AI-Powered Security Solutions** - Revolutionary defense systems
@@ -379,10 +457,11 @@ timeline
 
 ### **💬 Communication Preferences**
 
-*Professional inquiries:* LinkedIn, Telegram, Email  
-*Technical discussions:* Twitter, Bluesky, Element  
-*Secure communications:* QTox, Session, Element  
-*Content collaboration:* YouTube, TikTok, Kick  
+*Professional inquiries:* LinkedIn, ProtonMail, Gmail  
+*Technical discussions:* X/Twitter, Bluesky, Medium, Reddit  
+*Secure communications:* ProtonMail, Tutanota, QTox, Session, Element  
+*Content collaboration:* YouTube, TikTok, Kick, Medium  
+*Educational content:* Udemy (TunAcademy), YouTube, Medium  
 
 *Available for conversations in:*
 🇦🇿 Azerbaijani | 🇹🇷 Turkish | 🇷🇺 Russian | 🇺🇸 English
