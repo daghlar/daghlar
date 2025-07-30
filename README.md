@@ -18,22 +18,68 @@
 
 <!-- GLOWING SOCIAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/daghlar-mammadov">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/xdaghlar">
+    <img src="https://img.shields.io/badge/LinkedIn-xdaghlar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:daghlar@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <a href="https://t.me/xdaghlar">
+    <img src="https://img.shields.io/badge/Telegram-@xdaghlar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://tuntalks.com">
-    <img src="https://img.shields.io/badge/TunTalks-Forum-FF6B35?style=for-the-badge&logo=discourse&logoColor=white"/>
+  <a href="https://twitter.com/xdaghlar">
+    <img src="https://img.shields.io/badge/Twitter-@xdaghlar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/daghlar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://youtube.com/@xdaghlar">
+    <img src="https://img.shields.io/badge/YouTube-@xdaghlar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<!-- SECONDARY SOCIAL LINKS -->
+<p align="center">
+  <a href="https://bsky.app/profile/xdaghlar.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-xdaghlar-00D4FF?style=flat-square&logo=bluesky&logoColor=white"/>
+  </a>
+  <a href="https://threads.net/@xdaghlar">
+    <img src="https://img.shields.io/badge/Threads-@xdaghlar-000000?style=flat-square&logo=threads&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@xdaghlar">
+    <img src="https://img.shields.io/badge/TikTok-@xdaghlar-000000?style=flat-square&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://teknofest.org/profile/xdaghlar">
+    <img src="https://img.shields.io/badge/Teknofest-xdaghlar-FF6B35?style=flat-square&logo=trophy&logoColor=white"/>
+  </a>
+  <a href="https://kick.com/xdaghlar">
+    <img src="https://img.shields.io/badge/Kick-xdaghlar-53FC18?style=flat-square&logo=kickstarter&logoColor=white"/>
+  </a>
+</p>
+
+<!-- PRIVACY-FOCUSED COMMUNICATION -->
+<p align="center">
+  <strong>🔐 Secure Communication Channels:</strong><br/>
+  <img src="https://img.shields.io/badge/QTox-xdaghlar@qtox.me-00FF00?style=flat-square&logo=shield"/>
+  <img src="https://img.shields.io/badge/Session-xdaghlar.session-1AB394?style=flat-square&logo=session"/>
+  <img src="https://img.shields.io/badge/Element-@xdaghlar:matrix.org-0DBD8B?style=flat-square&logo=element"/>
+</p>
+
+<!-- ADDITIONAL PROFILE LINKS -->
+<p align="center">
+  <a href="https://preprod.kureansiklopedi.com/en/profil/daghlar">
+    <img src="https://img.shields.io/badge/Küre_Ansiklopedi-Profile-8B5CF6?style=flat-square&logo=wikipedia"/>
+  </a>
+  <a href="https://sosyal.teknofest.app/@daghlarmammadov">
+    <img src="https://img.shields.io/badge/Teknofest_Social-@daghlarmammadov-FF6B35?style=flat-square&logo=rocket"/>
+  </a>
+  <a href="https://odysee.com/@xdaghlar">
+    <img src="https://img.shields.io/badge/Odysee-@xdaghlar-EF3A6F?style=flat-square&logo=odysee"/>
+  </a>
+  <a href="https://rutube.ru/channel/xdaghlar">
+    <img src="https://img.shields.io/badge/Rutube-xdaghlar-FF0000?style=flat-square&logo=youtube"/>
+  </a>
+  <a href="https://pixelfed.social/@xdaghlar">
+    <img src="https://img.shields.io/badge/Pixelfed-@xdaghlar-FF5722?style=flat-square&logo=instagram"/>
   </a>
 </p>
 
 <!-- VISITOR COUNTER WITH ANIMATION -->
-<img src="https://komarev.com/ghpvc/?username=daghlar&label=Profile+Views&color=00d4aa&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=xdaghlar&label=Digital+Footprints&color=00d4aa&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -145,13 +191,13 @@ class DaghlarMammadov:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=radical&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xdaghlar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xdaghlar&theme=radical&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daghlar&custom_title=Daghlar's%20Innovation%20Journey&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xdaghlar&custom_title=Daghlar's%20Innovation%20Journey&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" />
 
 <!-- LANGUAGE STATS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daghlar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaghlar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff" />
 
 </div>
 
@@ -276,7 +322,7 @@ timeline
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e58ef2.gif" width="25"> **Connect & Collaborate**
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e58ef2.gif" width="25"> **Connect Across All Platforms**
 
 <div align="center">
 
@@ -286,6 +332,43 @@ timeline
 <img src="https://img.shields.io/badge/Available%20for-Tech%20Consulting-blue?style=for-the-badge&logo=consulting"/>
 <img src="https://img.shields.io/badge/Mentor-Next%20Generation-orange?style=for-the-badge&logo=academic"/>
 
+### **🌐 Find Me Everywhere**
+
+<table align="center">
+<tr>
+<td><strong>🎥 Content Creation</strong></td>
+<td><strong>💬 Social Networks</strong></td>
+<td><strong>🔐 Secure Communication</strong></td>
+</tr>
+<tr>
+<td>
+• <a href="https://youtube.com/@xdaghlar">YouTube</a> - Tech tutorials<br/>
+• <a href="https://tiktok.com/@xdaghlar">TikTok</a> - Quick tips<br/>
+• <a href="https://kick.com/xdaghlar">Kick</a> - Live coding<br/>
+• <a href="https://odysee.com/@xdaghlar">Odysee</a> - Decentralized content<br/>
+• <a href="https://rutube.ru/channel/xdaghlar">Rutube</a> - Russian audience
+</td>
+<td>
+• <a href="https://twitter.com/xdaghlar">Twitter/X</a> - Tech insights<br/>
+• <a href="https://threads.net/@xdaghlar">Threads</a> - Quick updates<br/>
+• <a href="https://bsky.app/profile/xdaghlar.bsky.social">Bluesky</a> - Decentralized social<br/>
+• <a href="https://linkedin.com/in/xdaghlar">LinkedIn</a> - Professional network<br/>
+• <a href="https://pixelfed.social/@xdaghlar">Pixelfed</a> - Photo sharing
+</td>
+<td>
+• <strong>QTox:</strong> xdaghlar@qtox.me<br/>
+• <strong>Session:</strong> xdaghlar.session<br/>
+• <strong>Element:</strong> @xdaghlar:matrix.org<br/>
+• <a href="https://t.me/xdaghlar">Telegram</a> - @xdaghlar<br/>
+• Encrypted communications preferred
+</td>
+</tr>
+</table>
+
+### **🏆 Professional Profiles**
+- **🚀 Teknofest:** [Main Profile](https://teknofest.org/profile/xdaghlar) | [Social](https://sosyal.teknofest.app/@daghlarmammadov)
+- **📚 Küre Ansiklopedi:** [Academic Profile](https://preprod.kureansiklopedi.com/en/profil/daghlar)
+
 **Collaboration Interests:**
 - 🤖 **AI-Powered Security Solutions** - Revolutionary defense systems
 - 🌐 **Cross-Cultural Tech Projects** - Building bridges through code
@@ -294,7 +377,12 @@ timeline
 - 🛡️ **Enterprise Security Consulting** - Protecting digital assets globally
 - 📱 **Mobile Security Research** - Next-gen application protection
 
-### **💬 Let's Connect Across Cultures**
+### **💬 Communication Preferences**
+
+*Professional inquiries:* LinkedIn, Telegram, Email  
+*Technical discussions:* Twitter, Bluesky, Element  
+*Secure communications:* QTox, Session, Element  
+*Content collaboration:* YouTube, TikTok, Kick  
 
 *Available for conversations in:*
 🇦🇿 Azerbaijani | 🇹🇷 Turkish | 🇷🇺 Russian | 🇺🇸 English
