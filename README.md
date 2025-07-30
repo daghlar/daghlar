@@ -1,114 +1,109 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Daghlar%20Mammadov&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20System%20Engineer%20%7C%20Open%20Source%20Innovator&descSize=22&animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Daghlar%20Mammadov&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20System%20Engineer%20%7C%20Open%20Source%20Innovator&descSize=22&animation=twinkling"/>
-  </picture>
-</div>
+<!--
+  README.md for Daghlar Mammadov
+  Focus: Red Team & Cybersecurity + AI/ML Expert
+  Style: Clean, Animated Icons, Professional
+-->
 
 <p align="center">
-  <a href="https://linkedin.com/in/xdaghlar"><img src="https://img.shields.io/badge/LinkedIn-xdaghlar-blue?logo=linkedin"></a>
-  <a href="mailto:daghlarmammadov@proton.me"><img src="https://img.shields.io/badge/Email-Contact-8B89CC?logo=protonmail"></a>
-  <a href="https://t.me/daghlar"><img src="https://img.shields.io/badge/Telegram-@daghlar-2CA5E0?logo=telegram"></a>
-  <a href="https://x.com/xdaghlar"><img src="https://img.shields.io/badge/Twitter-@xdaghlar-1DA1F2?logo=twitter"></a>
-  <a href="https://github.com/daghlar"><img src="https://img.shields.io/github/followers/daghlar?label=GitHub&style=social"></a>
+  <img src="https://raw.githubusercontent.com/xdaghlar/xdaghlar/main/assets/banner.gif" alt="Banner Animation" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://github.com/xdaghlar" target="_blank">Daghlar Mammadov</a> 👋</h1>
+
+<p align="center">
+  <em>Red Team Specialist | Cybersecurity Researcher | AI & Machine Learning Engineer</em><br/>
+  <strong>Passionate about offensive security, AI-powered defense, and low-level system programming.</strong>
+</p>
+
+<p align="center">
+  <a href="#about-me" title="About Me"><img src="https://img.shields.io/badge/About-Me-blue?style=for-the-badge&logo=github" alt="About Me"/></a>
+  <a href="#skills" title="Skills"><img src="https://img.shields.io/badge/Skills-Expertise-green?style=for-the-badge&logo=devicon" alt="Skills"/></a>
+  <a href="#projects" title="Projects"><img src="https://img.shields.io/badge/Projects-Portfolio-orange?style=for-the-badge&logo=github" alt="Projects"/></a>
+  <a href="#contact" title="Contact"><img src="https://img.shields.io/badge/Contact-Get_in_Touch-red?style=for-the-badge&logo=mailchimp" alt="Contact"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Daghlar Mammadov**, a multidisciplinary technologist from **Azerbaijan**, based in **Istanbul, Turkey**. I specialize in:
+I am a cybersecurity expert with over 13 years of experience specializing in **Red Team Operations**, **Advanced Penetration Testing**, and **Exploit Development**.  
+Alongside, I architect and develop **AI/ML-driven security solutions**, blending low-level system engineering with cutting-edge neural network research.  
 
-- 🛡️ Offensive Security (Red Team, Exploit Dev, OSINT)
-- ⚙️ System Engineering (OS Dev, Kernel, Infrastructure)
-- 🤖 AI/ML (Neural Architecture, AI Security, Deep Learning)
-- 🌐 Full Stack Web Development
-
-> Founder of **TunTalks.com** — President of **Siber Tun Club** — 2nd-year **Computer Engineering** student at **Nişantaşı University**.
+Currently, I am a Computer Engineering student at Nişantaşı University, actively leading the **Siber Tun Club** as President and founding the community platform **TUNTALKS.COM**.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Skills & Expertise
 
-| Languages      | Frameworks & Tools     | Databases           | OS & Systems           |
-| -------------- | ---------------------- | ------------------- | ---------------------- |
-| Python, Rust, Go, C++, JS/TS, Shell | TensorFlow, PyTorch, React, Next.js, Node.js | PostgreSQL, MySQL, MongoDB | Linux, Unix, Custom OS Dev |
-
----
-
-## 📌 Key Projects
-
-- 🔹 [TunUAV](https://github.com/daghlar/TunUAV) — UAV Control Interface Software
-- 🔹 [TunOS](https://github.com/daghlar/TunOs) — Secure Android OS
-- 🔹 [Portfolio](https://github.com/daghlar/Portfolio) — Personal React-based site
+| Category                    | Tools & Technologies                                    |
+|-----------------------------|---------------------------------------------------------|
+| **Red Team & Cybersecurity** | Penetration Testing, Exploit Development, OSINT, Adversary Emulation, Network Security, Security Automation |
+| **Artificial Intelligence**  | Neural Networks, Deep Learning, TensorFlow, PyTorch, Adversarial AI, Model Optimization |
+| **System Engineering**       | OS Development, Kernel Programming, Low-Level System Design, Browser Engineering, Linux |
+| **Full Stack Development**   | React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, CI/CD |
 
 ---
 
-## 🌐 Platforms & Presence
+## 📂 Selected Projects
 
-### 📡 Professional
-- [LinkedIn](https://linkedin.com/in/xdaghlar)
-- [Medium](https://medium.com/@daghlar)
-- [Udemy](https://www.udemy.com/user/tunacademy/)
-- [Küre Ansiklopedi](https://preprod.kureansiklopedi.com/en/profil/daghlar)
-
-### 🔊 Media & Streaming
-- [YouTube](https://www.youtube.com/@Daghlar)
-- [Twitch](https://twitch.tv/daghlar)
-- [Kick](https://kick.com/daghlar)
-- [Rutube](https://rutube.ru/@daghlar)
-- [Odysee](https://odysee.com/@daghlar:6)
-- [Pixelfed](https://pixelfed.social/daghlar)
-
-### 🔐 Secure Communication
-- [Matrix](https://matrix.to/#/@daghlar:matrix.org)
-- ProtonMail: daghlarmammadov@proton.me
-- Tutanota: daghlarmammadov@tutanota.de
+- [**TunUAV**](https://github.com/daghlar/TunUAV) – Custom UAV Control Panel & Flight Software  
+- [**TunOS**](https://github.com/daghlar/TunOs) – Secure Android-based Operating System Development  
+- [**TunPortfolio**](https://github.com/daghlar/Portfolio) – Personal Portfolio & Community Platform  
+- [**Security Training Lab**](https://tuntalks.com) – Hands-on Red Team & Cybersecurity Workshop Platform  
 
 ---
 
-## 🎓 Community Leadership
+## 🚀 GitHub Stats
 
-### 🧪 Siber Tun Club — President
-Leading cybersecurity education, events, labs, and community growth.
-
-### 💡 TunTalks.com — Founder
-A public knowledge hub for cybersecurity, AI, and technical innovation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xdaghlar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaghlar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧠 Research Interests
+## 📫 Contact Me
 
-- AI-Driven Security Systems
-- Threat Intelligence & Detection
-- OS & Kernel Security
-- Educational Platform Design
-- Multilingual Tech Development
-- Privacy & Open Source Solutions
+| Platform            | Link                                           |
+|---------------------|------------------------------------------------|
+| ProtonMail          | [daghlarmammadov@proton.me](mailto:daghlarmammadov@proton.me) |
+| Tutanota            | [daghlarmammadov@tutanota.de](mailto:daghlarmammadov@tutanota.de) |
+| Gmail               | [daghlarmammadov@gmail.com](mailto:daghlarmammadov@gmail.com) |
+| LinkedIn            | [linkedin.com/in/xdaghlar](https://linkedin.com/in/xdaghlar) |
+| Matrix (Element)     | [@daghlar:matrix.org](https://matrix.to/#/@daghlar:matrix.org) |
+| YouTube             | [youtube.com/@Daghlar](https://www.youtube.com/@Daghlar) |
+| Twitch              | [twitch.tv/daghlar](https://www.twitch.tv/daghlar) |
+| Kick                | [kick.com/daghlar](https://kick.com/daghlar) |
+| Rutube              | [rutube.ru/@daghlar](https://rutube.ru/@daghlar) |
+| Odysee              | [odysee.com/@daghlar:6](https://odysee.com/@daghlar:6) |
+| Pixelfed            | [pixelfed.social/daghlar](https://pixelfed.social/daghlar) |
+| Mastodon            | [mastodon.social/@daghlar](https://mastodon.social/@daghlar) |
+| Bluesky             | [bsky.app/profile/daghlar.bsky.social](https://bsky.app/profile/daghlar.bsky.social) |
+| Telegram            | [t.me/daghlar](https://t.me/daghlar) |
+| Twitter (X)         | [twitter.com/xdaghlar](https://twitter.com/xdaghlar) |
+| Instagram           | [instagram.com/xdaghlar](https://instagram.com/xdaghlar) |
+| Reddit              | [reddit.com/user/xDaghlar](https://www.reddit.com/user/xDaghlar) |
+| Medium              | [medium.com/@daghlar](https://medium.com/@daghlar) |
+
+---
+
+## 🔖 Certifications & Training
+
+- Offensive Security Certified Professional (OSCP) – In Progress  
+- Practical Web Application Security – TunAcademy  
+- Advanced Red Team Infrastructure – Internal Training  
+- AI Security & Adversarial ML – Research-Based  
+- Linux Kernel Internals & OS Development – TunLabs  
 
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=daghlar&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="49%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daghlar&theme=default&hide_border=true" width="49%"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xdaghlar&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Let code be your sword. Let curiosity be your shield."</i><br/>
-  — Daghlar Mammadov
+  Crafted with ❤️ by Daghlar Mammadov  
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer"/>
-  </picture>
-</div>
