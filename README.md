@@ -58,19 +58,16 @@ certifications:
 ### 🔴 **Red Team & Cybersecurity**
 <img src="https://skillicons.dev/icons?i=linux,bash,python,rust,go&theme=dark" />
 
-```bash
-┌─[expertise@redteam]─[~/skills]
-└──╼ $ cat red_team_capabilities.txt
+<br>
 
-├── 🎯 Advanced Penetration Testing & Exploit Development
-├── 🕵️ OSINT & Social Engineering Techniques  
-├── 🏴‍☠️ Adversary Emulation (MITRE ATT&CK Framework)
-├── 🔍 Vulnerability Research & Zero-Day Discovery
-├── 🛡️ Security Automation & Incident Response
-├── 🔧 Custom Security Tooling & Framework Development
-├── 📊 Threat Intelligence & Risk Assessment
-└── 🚨 Red Team Infrastructure & C2 Operations
-```
+**🎯 Advanced Penetration Testing & Exploit Development**  
+**🕵️ OSINT & Social Engineering Techniques**  
+**🏴‍☠️ Adversary Emulation (MITRE ATT&CK Framework)**  
+**🔍 Vulnerability Research & Zero-Day Discovery**  
+**🛡️ Security Automation & Incident Response**  
+**🔧 Custom Security Tooling & Framework Development**  
+**📊 Threat Intelligence & Risk Assessment**  
+**🚨 Red Team Infrastructure & C2 Operations**
 
 ### 🤖 **AI & Machine Learning**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,sklearn&theme=dark" />
@@ -265,57 +262,57 @@ const fullStackExpertise = {
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/az.png" alt="Azerbaijan"/> <b>Azerbaijani</b></td>
-<td><img src="https://progress-bar.dev/100?color=dc2626&title=Native" /></td>
+<td><img src="https://progress-bar.dev/100?color=dc2626&title=C2" /></td>
 <td>Native Speaker</td>
-<td>🥇 Master</td>
+<td>🥇 Native</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/tr.png" alt="Turkey"/> <b>Turkish</b></td>
-<td><img src="https://progress-bar.dev/95?color=dc2626&title=Fluent" /></td>
-<td>Fluent</td>
-<td>🥇 Master</td>
+<td><img src="https://progress-bar.dev/100?color=dc2626&title=C2" /></td>
+<td>Native</td>
+<td>🥇 Native</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/us.png" alt="USA"/> <b>English</b></td>
-<td><img src="https://progress-bar.dev/85?color=2563eb&title=Professional" /></td>
-<td>Professional Working</td>
-<td>🥈 Advanced</td>
+<td><img src="https://progress-bar.dev/85?color=2563eb&title=C1" /></td>
+<td>Advanced</td>
+<td>🥈 Fluent</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ru.png" alt="Russia"/> <b>Russian</b></td>
-<td><img src="https://progress-bar.dev/75?color=2563eb&title=Upper-Intermediate" /></td>
-<td>Upper-Intermediate</td>
-<td>🥈 Advanced</td>
+<td><img src="https://progress-bar.dev/70?color=2563eb&title=B2" /></td>
+<td>Upper Intermediate</td>
+<td>🥈 Conversational</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/sa.png" alt="Saudi Arabia"/> <b>Arabic</b></td>
-<td><img src="https://progress-bar.dev/30?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+<td><img src="https://progress-bar.dev/40?color=16a34a&title=A2" /></td>
+<td>Elementary</td>
+<td>🥉 Learning</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/cn.png" alt="China"/> <b>Chinese</b></td>
-<td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+<td><img src="https://progress-bar.dev/30?color=16a34a&title=A1" /></td>
+<td>Beginner</td>
+<td>🥉 Learning</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/il.png" alt="Israel"/> <b>Hebrew</b></td>
-<td><img src="https://progress-bar.dev/20?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+<td><img src="https://progress-bar.dev/25?color=16a34a&title=A1" /></td>
+<td>Beginner</td>
+<td>🥉 Learning</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ir.png" alt="Iran"/> <b>Persian</b></td>
-<td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+<td><img src="https://progress-bar.dev/35?color=16a34a&title=A1" /></td>
+<td>Elementary</td>
+<td>🥉 Learning</td>
 </tr>
 <tr>
 <td>🏴 <b>Kurdish</b></td>
-<td><img src="https://progress-bar.dev/15?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+<td><img src="https://progress-bar.dev/20?color=16a34a&title=A1" /></td>
+<td>Beginner</td>
+<td>🥉 Learning</td>
 </tr>
 </table>
 
@@ -422,160 +419,4 @@ mindmap
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black)](https://www.twitch.tv/daghlar)
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black&labelColor=black)](https://kick.com/daghlar)
 [![Rutube](https://img.shields.io/badge/Rutube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)](https://rutube.ru/@daghlar)
-[![Odysee](https://img.shields.io/badge/Odysee-EF3F56?style=for-the-badge&logo=odysee&logoColor=white&labelColor=black)](https://odysee.com/@daghlar:6)
-
-### 🐘 **Decentralized & Privacy-Focused Platforms**
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=black)](https://mastodon.social/@daghlar)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=black)](https://bsky.app/profile/daghlar.bsky.social)
-[![Pixelfed](https://img.shields.io/badge/Pixelfed-E1007E?style=for-the-badge&logo=pixelfed&logoColor=white&labelColor=black)](https://pixelfed.social/daghlar)
-
-### 📱 **Social Media & Communication**
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/xdaghlar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://instagram.com/xdaghlar)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/daghlar)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=black)](https://www.reddit.com/user/xDaghlar)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=black)](https://medium.com/@daghlar)
-
-### 💼 **Professional Development**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/daghlarmammadov)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/daghlar)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)](https://gitlab.com/daghlar)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/daghlar)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="35"> **Latest Activity & Contributions**
-
-<div align="center">
-
-### 📈 **Real-time GitHub Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🔥 **Contribution Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daghlar/daghlar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daghlar/daghlar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daghlar/daghlar/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 🎯 **WakaTime Coding Stats**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Featured Projects & Repositories**
-
-<div align="center">
-
-### 🔴 **Red Team & Security Tools**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=advanced-redteam-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/advanced-redteam-framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
-
-### 🤖 **AI Security & Machine Learning**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=adversarial-ml-detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/adversarial-ml-detector)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=neural-network-security&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/neural-network-security)
-
-### ⚙️ **System Programming & OS Development**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=secure-microkernel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/secure-microkernel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=custom-browser-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/custom-browser-engine)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> **Support My Work**
-
-<div align="center">
-
-### ☕ **Buy Me a Coffee**
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black)](https://ko-fi.com/daghlar)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=black)](https://www.buymeacoffee.com/daghlar)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black)](https://patreon.com/daghlar)
-
-### 💰 **Cryptocurrency Donations**
-<details>
-<summary><b>🔐 Crypto Wallet Addresses</b></summary>
-<br>
-
-```
-🟠 Bitcoin (BTC)
-bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
-
-🔵 Ethereum (ETH)  
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
-
-🟡 Binance Coin (BNB)
-bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23
-
-🟢 Tether (USDT)
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
-
-🟣 Monero (XMR)
-47vvHyf2kErpPQPeJF6CjdBqj4UKqAeAAGBkjLqFQp5AJCdDt6yJJuJAdxHLPJ3rVvTFbKKDSVh4AcNnuJDtBUGQJF7K5xY
-```
-
-</details>
-
-### 🎁 **Other Ways to Support**
-- ⭐ **Star my repositories** to show your appreciation
-- 🍴 **Fork and contribute** to open source projects
-- 📢 **Share my content** on social media
-- 💬 **Engage with my posts** and provide feedback
-- 🤝 **Collaborate** on interesting projects
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> **Visitor Information**
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=daghlar&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
-
-### 📊 **Visitor Stats**
-<img src="https://visitcount.itsvg.in/api?id=daghlar&icon=2&color=6" alt="Visit Counter" />
-
-### 🌍 **Global Reach**
-<img src="https://flagcounter.com/count2/8mKg/bg_0D1117/txt_FFFFFF/border_E53E3E/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🎯 **Mission Statement**
-
-> *"Bridging the gap between offensive cybersecurity, artificial intelligence research, and community education to build a safer, more innovative digital ecosystem. Through hands-on research, technical leadership, and knowledge sharing, I aim to advance the field of cybersecurity while fostering the next generation of security professionals worldwide."*
-
----
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-**Thanks for visiting my profile! Let's connect and build something amazing together.**
-
----
-
-**🔄 Profile last updated:** *July 31, 2025*  
-**⚡ Fun fact:** *I speak 9 languages and have been coding for over 13 years!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=150&section=footer&animation=fadeIn"/>
-
-</div>
+[![Odysee](https://img.shields.io/badge/Odysee-EF3F56?style=for-the-badge&logo=odysee&logoColor=
