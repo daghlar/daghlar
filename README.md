@@ -478,7 +478,7 @@ mindmap
 <div align="center">
 
 ### 🔴 **Cyber Security Tools - TunTools**
-[![Tun Tools](h[ttps://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=advanced-redteam-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/advanced-redteam-framework](https://github.com/daghlar/TunTools))
+[![Tun Tools](https://github.com/daghlar/TunTools )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
 
 ### 🤖 **AI Security & Machine Learning**
