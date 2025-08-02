@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=300&section=header&text=Daghlar%20Mammadov&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20AI%20Researcher%20%7C%20System%20Engineer&descAlignY=55&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔴+Red+Team+Operations+%26+Penetration+Testing;🤖+AI+Security+%26+Adversarial+Machine+Learning;⚙️+System+Engineering+%26+Kernel+Development;🌐+Full+Stack+Development+%26+DevSecOps;👥+Community+Leadership+%26+Education" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🔴+Red+Team+Operations+%26+Penetration+Testing;🤖+AI+Security+%26+Adversarial+Machine+Learning;⚙️+System+Engineering+%26+Kernel+Development;🌐+Full+Stack+Development+%26+DevSecOps;👥+Community+Leadership+%26+Education" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
