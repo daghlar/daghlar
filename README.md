@@ -2,11 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=300&section=header&text=Daghlar%20Mammadov&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20AI%20Researcher%20%7C%20System%20Engineer&descAlignY=55&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔴+Red+Team+Operations+%26+Penetration+Testing;🤖+AI+Security+%26+Adversarial+Machine+Learning;⚙️+System+Engineering+%26+Kernel+Development;🌐+Full+Stack+Development+%26+DevSecOps;👥+Community+Leadership+%26+Education" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🔴+Red+Team+Operations+%26+Penetration+Testing;🤖+AI+Security+%26+Adversarial+Machine+Learning;⚙️+System+Engineering+%26+Kernel+Development;🌐+Full+Stack+Development+%26+DevSecOps;👥+Community+Leadership+%26+Education" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=daghlar&color=red&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/daghlar)
 [![GitHub followers](https://img.shields.io/github/followers/daghlar?label=FOLLOWERS&style=for-the-badge&color=blue&labelColor=black)](https://github.com/daghlar)
 [![GitHub stars](https://img.shields.io/github/stars/daghlar?label=STARS&style=for-the-badge&color=red&labelColor=black)](https://github.com/daghlar)
 
@@ -260,62 +259,62 @@ const fullStackExpertise = {
 <tr>
 <th>🌍 Language</th>
 <th>📊 Level</th>
-<th>🎯 Proficiency</th>
-<th>🏆 Status</th>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/az.png" alt="Azerbaijan"/> <b>Azerbaijani</b></td>
 <td><img src="https://progress-bar.dev/100?color=dc2626&title=Native" /></td>
-<td>Native Speaker</td>
-<td>🥇 Master</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/tr.png" alt="Turkey"/> <b>Turkish</b></td>
 <td><img src="https://progress-bar.dev/95?color=dc2626&title=Fluent" /></td>
-<td>Fluent</td>
-<td>🥇 Master</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/us.png" alt="USA"/> <b>English</b></td>
 <td><img src="https://progress-bar.dev/85?color=2563eb&title=Professional" /></td>
-<td>Professional Working</td>
-<td>🥈 Advanced</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ru.png" alt="Russia"/> <b>Russian</b></td>
 <td><img src="https://progress-bar.dev/75?color=2563eb&title=Upper-Intermediate" /></td>
-<td>Upper-Intermediate</td>
-<td>🥈 Advanced</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/sa.png" alt="Saudi Arabia"/> <b>Arabic</b></td>
 <td><img src="https://progress-bar.dev/30?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/cn.png" alt="China"/> <b>Chinese</b></td>
 <td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/il.png" alt="Israel"/> <b>Hebrew</b></td>
 <td><img src="https://progress-bar.dev/20?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+
+
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ir.png" alt="Iran"/> <b>Persian</b></td>
 <td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+
+
 </tr>
 <tr>
 <td>🏴 <b>Kurdish</b></td>
 <td><img src="https://progress-bar.dev/15?color=16a34a&title=Learning" /></td>
-<td>Learning</td>
-<td>🥉 Beginner</td>
+
+
 </tr>
 </table>
 
@@ -477,8 +476,8 @@ mindmap
 
 <div align="center">
 
-### 🔴 **Cyber Security Tools - TunTools**
-[![Tun Tools](https://github.com/daghlar/TunTools )
+### 🔴 **Red Team & Security Tools**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=advanced-redteam-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/advanced-redteam-framework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
 
 ### 🤖 **AI Security & Machine Learning**
@@ -579,3 +578,32 @@ bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=150&section=footer&animation=fadeIn"/>
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/l0HlFKyv00J1b67kQ/giphy.gif" width="35"> **PROFESSIONAL PROJECTS – DAGHLAR MAMMADOV**
+
+A total of 33 professional-level projects have been developed. Below are some of the highlighted projects and their brief descriptions:
+
+1. TunUAV – Open Source Unmanned Aerial Vehicle Control Panel
+   A powerful control panel software designed to monitor and manage UAV flight data.
+   GitHub: https://github.com/daghlar/TunUAV
+2. TunOS – Android-Based Open Source Operating System
+   A privacy and security-focused Android-based open source operating system project.
+   GitHub: https://github.com/daghlar/TunOS
+3. Portfolio – Personal Portfolio Website
+   A personal website showcasing my projects, skills, and professional background.
+   GitHub: https://github.com/daghlar/Portfolio
+4. Tunrch – Arch Linux-Based Distribution
+   A customized Arch Linux distribution focused on performance and flexibility.
+   GitHub: https://github.com/daghlar/Tunrch
+5. TunLinux – Advanced Linux Distribution
+   A secure and privacy-respecting Linux distribution designed for daily use.
+   GitHub: https://github.com/daghlar/TunLinux
+6. TunTools – 400+ Cybersecurity Tools
+   A comprehensive collection of over 400 cybersecurity tools for pentesting, reverse engineering, network security, and digital forensics.
+   GitHub: https://github.com/daghlar/TunTools
+
+
