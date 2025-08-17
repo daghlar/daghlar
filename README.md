@@ -337,56 +337,56 @@ const fullStackExpertise = {
 <th>🏆 Status</th>
 </tr>
 <tr>
-<td><img src="https://flagcdn.com/24x18/az.png" alt="Azerbaijan"/> <b>Azerbaijani</b></td>
-<td><img src="https://progress-bar.dev/100?color=dc2626&title=Native" /></td>
+<td><img src="https://flagcdn.com/24x18/az.png" alt="Azerbaijani"/> <b>Azerbaijani</b></td>
+<td><img src="https://img.shields.io/badge/Native-100%25-red?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Native Speaker</td>
 <td>🥇 Master</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/tr.png" alt="Turkey"/> <b>Turkish</b></td>
-<td><img src="https://progress-bar.dev/95?color=dc2626&title=Fluent" /></td>
+<td><img src="https://img.shields.io/badge/Fluent-95%25-red?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Fluent</td>
 <td>🥇 Master</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/us.png" alt="USA"/> <b>English</b></td>
-<td><img src="https://progress-bar.dev/85?color=2563eb&title=Professional" /></td>
+<td><img src="https://img.shields.io/badge/Professional-85%25-blue?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Professional Working</td>
 <td>🥈 Advanced</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ru.png" alt="Russia"/> <b>Russian</b></td>
-<td><img src="https://progress-bar.dev/75?color=2563eb&title=Upper-Intermediate" /></td>
+<td><img src="https://img.shields.io/badge/Upper_Intermediate-75%25-blue?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Upper-Intermediate</td>
 <td>🥈 Advanced</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/sa.png" alt="Saudi Arabia"/> <b>Arabic</b></td>
-<td><img src="https://progress-bar.dev/30?color=16a34a&title=Learning" /></td>
+<td><img src="https://img.shields.io/badge/Learning-30%25-green?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Learning</td>
 <td>🥉 Beginner</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/cn.png" alt="China"/> <b>Chinese</b></td>
-<td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
+<td><img src="https://img.shields.io/badge/Learning-25%25-green?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Learning</td>
 <td>🥉 Beginner</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/il.png" alt="Israel"/> <b>Hebrew</b></td>
-<td><img src="https://progress-bar.dev/20?color=16a34a&title=Learning" /></td>
+<td><img src="https://img.shields.io/badge/Learning-20%25-green?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Learning</td>
 <td>🥉 Beginner</td>
 </tr>
 <tr>
 <td><img src="https://flagcdn.com/24x18/ir.png" alt="Iran"/> <b>Persian</b></td>
-<td><img src="https://progress-bar.dev/25?color=16a34a&title=Learning" /></td>
+<td><img src="https://img.shields.io/badge/Learning-25%25-green?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Learning</td>
 <td>🥉 Beginner</td>
 </tr>
 <tr>
 <td>🏴 <b>Kurdish</b></td>
-<td><img src="https://progress-bar.dev/15?color=16a34a&title=Learning" /></td>
+<td><img src="https://img.shields.io/badge/Learning-15%25-green?style=for-the-badge&logoColor=white&labelColor=black" /></td>
 <td>Learning</td>
 <td>🥉 Beginner</td>
 </tr>
