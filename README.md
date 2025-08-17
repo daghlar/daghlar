@@ -634,13 +634,14 @@ bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=daghlar&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
-
-### 📊 **Visitor Stats**
-<img src="https://visitcount.itsvg.in/api?id=daghlar&icon=2&color=6" alt="Visit Counter" />
+### 📊 **Profile Analytics**
+[![Profile Views](https://komarev.com/ghpvc/?username=daghlar&color=red&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/daghlar)
 
 ### 🌍 **Global Reach**
 <img src="https://flagcounter.com/count2/8mKg/bg_0D1117/txt_FFFFFF/border_E53E3E/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" />
+
+### 📈 **Visit Counter**
+<img src="https://visitcount.itsvg.in/api?id=daghlar&icon=2&color=6" alt="Visit Counter" />
 
 </div>
 
