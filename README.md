@@ -591,41 +591,94 @@ mindmap
 
 <div align="center">
 
-### ☕ **Buy Me a Coffee**
+### ☕ **Traditional Support Platforms**
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black)](https://ko-fi.com/daghlar)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=black)](https://www.buymeacoffee.com/daghlar)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black)](https://patreon.com/daghlar)
 
-### 💰 **Cryptocurrency Donations**
+### 🔐 **Cryptocurrency Donations**
 <details>
-<summary><b>🔐 Crypto Wallet Addresses</b></summary>
+<summary><b>💰 Multi-Chain Wallet Addresses</b></summary>
 <br>
 
+#### **Layer 1 Blockchains**
 ```
-🟠 Bitcoin (BTC)
+🟠 Bitcoin (BTC) - Lightning Network
 bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 
-🔵 Ethereum (ETH)  
+🔵 Ethereum (ETH) - ERC-20 Tokens
 0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
 
-🟡 Binance Coin (BNB)
+🟡 Binance Smart Chain (BSC)
 bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23
 
-🟢 Tether (USDT)
+🟣 Polygon (MATIC) - ERC-20 Compatible
 0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
 
-🟣 Monero (XMR)
+🟢 Solana (SOL)
+7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
+```
+
+#### **Privacy & Alternative Coins**
+```
+🟣 Monero (XMR) - Privacy Focused
 47vvHyf2kErpPQPeJF6CjdBqj4UKqAeAAGBkjLqFQp5AJCdDt6yJJuJAdxHLPJ3rVvTFbKKDSVh4AcNnuJDtBUGQJF7K5xY
+
+🟠 Litecoin (LTC)
+ltc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+
+🔵 Dogecoin (DOGE)
+D8j6K9xQ2mF3vN7pL1sR4tU6wY8zA5bC9dE2fG4hI6jK
+```
+
+#### **Stablecoins & DeFi Tokens**
+```
+🟢 Tether (USDT) - Ethereum
+0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
+
+🔵 USD Coin (USDC) - Ethereum
+0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
+
+🟡 DAI - Ethereum
+0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
 ```
 
 </details>
 
-### 🎁 **Other Ways to Support**
+### 🌐 **Web3 & DeFi Wallets**
+<details>
+<summary><b>🔗 Connect Your Wallet</b></summary>
+<br>
+
+#### **Browser Wallets**
+- **MetaMask** - Ethereum & EVM Chains
+- **Phantom** - Solana Ecosystem
+- **Brave Wallet** - Multi-Chain Support
+- **Coinbase Wallet** - User-Friendly Interface
+
+#### **Hardware Wallets**
+- **Ledger** - Cold Storage Security
+- **Trezor** - Open Source Security
+- **SafePal** - Mobile Hardware Wallet
+
+#### **Privacy Wallets**
+- **Onion Wallet** - Tor Network Integration
+- **Wasabi Wallet** - Bitcoin Privacy
+- **Samourai Wallet** - Advanced Privacy Features
+
+</details>
+
+### 🎁 **Non-Financial Support**
 - ⭐ **Star my repositories** to show your appreciation
 - 🍴 **Fork and contribute** to open source projects
-- 📢 **Share my content** on social media
+- 📢 **Share my content** on social media platforms
 - 💬 **Engage with my posts** and provide feedback
-- 🤝 **Collaborate** on interesting projects
+- 🤝 **Collaborate** on interesting cybersecurity projects
+- 📚 **Contribute** to community knowledge sharing
+- 🐛 **Report bugs** and suggest improvements
+
+### 🔒 **Security Notice**
+> *All cryptocurrency addresses are verified and secure. For large donations, please contact me directly for additional verification methods. Never share your private keys or seed phrases.*
 
 </div>
 
