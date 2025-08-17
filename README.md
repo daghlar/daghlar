@@ -134,6 +134,55 @@ const fullStackExpertise = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="35"> **Featured Projects & Repositories**
+
+<div align="center">
+
+### 🔴 **Core Projects - Priority Focus**
+
+#### 🐧 **TunLinux - Custom Linux Distribution**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunLinux&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/TunLinux)
+
+**An indispensable Linux distribution for daily use and cybersecurity**  
+*Minimal, customizable Linux distribution using runit or openrc as init system*
+
+#### 🤖 **TUNOS - Privacy-Focused Android OS**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=tunos&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/tunos)
+
+**Open Source Private and Security Android OS**  
+*Trusted Unified Network Operating System with advanced privacy controls*
+
+#### 🛠️ **TunTools - Cybersecurity Toolkit**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunTools&theme=radical&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=FFFFFF)](https://github.com/daghlar/TunTools)
+
+**Comprehensive cybersecurity and penetration testing tools**  
+*Advanced red team operations and security research utilities*
+
+#### 🚁 **TunUV - UAV Control System**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunUV&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF)](https://github.com/daghlar/TunUV)
+
+**Open Source Unmanned Aerial Vehicle Control Panel**  
+*Advanced drone control and automation systems*
+
+### 🔧 **Additional Projects**
+
+#### 🎯 **OSINT & Security Automation**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
+
+#### 🤖 **AI Security & Machine Learning**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=adversarial-ml-detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/adversarial-ml-detector)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=neural-network-security&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/neural-network-security)
+
+#### ⚙️ **System Programming & OS Development**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=secure-microkernel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/secure-microkernel)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=custom-browser-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/custom-browser-engine)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
 <div align="center">
@@ -146,14 +195,14 @@ const fullStackExpertise = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daghlar&theme=redical&bg_color=0d1117&color=ffffff&line=e53e3e&point=3182ce&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daghlar&theme=radical&bg_color=0d1117&color=ffffff&line=e53e3e&point=3182ce&area=true&hide_border=true" />
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Technology Stack**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **Technology Stack**
 
 <div align="center">
 
@@ -466,28 +515,6 @@ mindmap
 ### 🎯 **WakaTime Coding Stats**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Featured Projects & Repositories**
-
-<div align="center">
-
-### 🔴 **TunUAV – Open Source Unmanned Aerial Vehicle Control Panel**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunUAV&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/TunUAV)
-][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
-
-### 🤖 **AI Security & Machine Learning**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=adversarial-ml-detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/adversarial-ml-detector)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=neural-network-security&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/neural-network-security)
-
-### ⚙️ **System Programming & OS Development**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=secure-microkernel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/secure-microkernel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=custom-browser-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/custom-browser-engine)
 
 </div>
 
