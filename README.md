@@ -360,19 +360,7 @@ const fullStackExpertise = {
 </tr>
 </table>
 
-### 🔬 **Research & Advanced Studies**
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/OSCP-IN_PROGRESS-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
-<br><b>Offensive Security Certified Professional (In Progress)</b>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/AI_SECURITY-RESEARCH-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=black" />
-<br><b>AI Security & Adversarial ML Research</b>
-</td>
-</tr>
-</table>
+
 
 ---
 
