@@ -199,69 +199,7 @@ const fullStackExpertise = {
 </tr>
 </table>
 
-### 🔧 **Additional Projects**
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/daghlar/osint-automation-suite">
-<img src="https://img.shields.io/badge/🎯_OSINT_Automation-Security_Tools-red?style=for-the-badge&logo=search&logoColor=white&labelColor=black" />
-</a>
-<br><br>
-<b>OSINT & Security Automation Suite</b>
-<br><br>
-<a href="https://github.com/daghlar/osint-automation-suite">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/daghlar/adversarial-ml-detector">
-<img src="https://img.shields.io/badge/🤖_AI_Security-ML_Detector-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=black" />
-</a>
-<br><br>
-<b>Adversarial ML Detection System</b>
-<br><br>
-<a href="https://github.com/daghlar/adversarial-ml-detector">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/daghlar/neural-network-security">
-<img src="https://img.shields.io/badge/🧠_Neural_Security-Network_Protection-blue?style=for-the-badge&logo=brain&logoColor=white&labelColor=black" />
-</a>
-<br><br>
-<b>Neural Network Security Framework</b>
-<br><br>
-<a href="https://github.com/daghlar/neural-network-security">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/daghlar/secure-microkernel">
-<img src="https://img.shields.io/badge/⚙️_Secure_Microkernel-OS_Development-white?style=for-the-badge&logo=gear&logoColor=black&labelColor=black" />
-</a>
-<br><br>
-<b>Secure Microkernel Architecture</b>
-<br><br>
-<a href="https://github.com/daghlar/secure-microkernel">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/daghlar/custom-browser-engine">
-<img src="https://img.shields.io/badge/🌐_Browser_Engine-Custom_Development-white?style=for-the-badge&logo=globe&logoColor=black&labelColor=black" />
-</a>
-<br><br>
-<b>Custom Browser Engine Development</b>
-<br><br>
-<a href="https://github.com/daghlar/custom-browser-engine">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</a>
-</td>
-</tr>
-</table>
 
 </div>
 
