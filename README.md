@@ -598,87 +598,31 @@ mindmap
 
 ### 🔐 **Cryptocurrency Donations**
 <details>
-<summary><b>💰 Multi-Chain Wallet Addresses</b></summary>
+<summary><b>💰 Wallet Addresses</b></summary>
 <br>
 
-#### **Layer 1 Blockchains**
 ```
-🟠 Bitcoin (BTC) - Lightning Network
+🟠 Bitcoin (BTC)
 bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 
-🔵 Ethereum (ETH) - ERC-20 Tokens
+🔵 Ethereum (ETH)
 0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
 
 🟡 Binance Smart Chain (BSC)
 bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23
-
-🟣 Polygon (MATIC) - ERC-20 Compatible
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
-
-🟢 Solana (SOL)
-7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
-```
-
-#### **Privacy & Alternative Coins**
-```
-🟣 Monero (XMR) - Privacy Focused
-47vvHyf2kErpPQPeJF6CjdBqj4UKqAeAAGBkjLqFQp5AJCdDt6yJJuJAdxHLPJ3rVvTFbKKDSVh4AcNnuJDtBUGQJF7K5xY
-
-🟠 Litecoin (LTC)
-ltc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
-
-🔵 Dogecoin (DOGE)
-D8j6K9xQ2mF3vN7pL1sR4tU6wY8zA5bC9dE2fG4hI6jK
-```
-
-#### **Stablecoins & DeFi Tokens**
-```
-🟢 Tether (USDT) - Ethereum
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
-
-🔵 USD Coin (USDC) - Ethereum
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
-
-🟡 DAI - Ethereum
-0x742d35Cc6634C0532925a3b8D4B9CA07F6F4AF6A
 ```
 
 </details>
 
-### 🌐 **Web3 & DeFi Wallets**
-<details>
-<summary><b>🔗 Connect Your Wallet</b></summary>
-<br>
-
-#### **Browser Wallets**
-- **MetaMask** - Ethereum & EVM Chains
-- **Phantom** - Solana Ecosystem
-- **Brave Wallet** - Multi-Chain Support
-- **Coinbase Wallet** - User-Friendly Interface
-
-#### **Hardware Wallets**
-- **Ledger** - Cold Storage Security
-- **Trezor** - Open Source Security
-- **SafePal** - Mobile Hardware Wallet
-
-#### **Privacy Wallets**
-- **Onion Wallet** - Tor Network Integration
-- **Wasabi Wallet** - Bitcoin Privacy
-- **Samourai Wallet** - Advanced Privacy Features
-
-</details>
-
-### 🎁 **Non-Financial Support**
-- ⭐ **Star my repositories** to show your appreciation
-- 🍴 **Fork and contribute** to open source projects
-- 📢 **Share my content** on social media platforms
-- 💬 **Engage with my posts** and provide feedback
-- 🤝 **Collaborate** on interesting cybersecurity projects
-- 📚 **Contribute** to community knowledge sharing
-- 🐛 **Report bugs** and suggest improvements
+### 🌐 **Supported Wallets**
+- **MetaMask** - Browser Extension
+- **Coinbase Wallet** - Mobile & Browser
+- **Binance Wallet** - Multi-Chain Support
+- **Trezor Suite** - Hardware Security
+- **Onion Wallet** - Privacy Focused
 
 ### 🔒 **Security Notice**
-> *All cryptocurrency addresses are verified and secure. For large donations, please contact me directly for additional verification methods. Never share your private keys or seed phrases.*
+> *All addresses are verified and secure. Never share your private keys.*
 
 </div>
 
