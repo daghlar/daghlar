@@ -140,42 +140,128 @@ const fullStackExpertise = {
 
 ### 🔴 **Core Projects - Priority Focus**
 
-#### 🐧 **TunLinux - Custom Linux Distribution**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunLinux&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/TunLinux)
-
-**An indispensable Linux distribution for daily use and cybersecurity**  
-*Minimal, customizable Linux distribution using runit or openrc as init system*
-
-#### 🤖 **TUNOS - Privacy-Focused Android OS**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=tunos&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/tunos)
-
-**Open Source Private and Security Android OS**  
-*Trusted Unified Network Operating System with advanced privacy controls*
-
-#### 🛠️ **TunTools - Cybersecurity Toolkit**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunTools&theme=radical&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=FFFFFF)](https://github.com/daghlar/TunTools)
-
-**Comprehensive cybersecurity and penetration testing tools**  
-*Advanced red team operations and security research utilities*
-
-#### 🚁 **TunUV - UAV Control System**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=TunUV&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF)](https://github.com/daghlar/TunUV)
-
-**Open Source Unmanned Aerial Vehicle Control Panel**  
-*Advanced drone control and automation systems*
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/TunLinux">
+<img src="https://img.shields.io/badge/🐧_TunLinux-Custom_Linux_Distribution-red?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>An indispensable Linux distribution for daily use and cybersecurity</b>
+<br><br>
+<em>Minimal, customizable Linux distribution using runit or openrc as init system</em>
+<br><br>
+<a href="https://github.com/daghlar/TunLinux">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/tunos">
+<img src="https://img.shields.io/badge/🤖_TUNOS-Privacy_Focused_Android_OS-blue?style=for-the-badge&logo=android&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>Open Source Private and Security Android OS</b>
+<br><br>
+<em>Trusted Unified Network Operating System with advanced privacy controls</em>
+<br><br>
+<a href="https://github.com/daghlar/tunos">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/TunTools">
+<img src="https://img.shields.io/badge/🛠️_TunTools-Cybersecurity_Toolkit-green?style=for-the-badge&logo=security&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>Comprehensive cybersecurity and penetration testing tools</b>
+<br><br>
+<em>Advanced red team operations and security research utilities</em>
+<br><br>
+<a href="https://github.com/daghlar/TunTools">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/TunUV">
+<img src="https://img.shields.io/badge/🚁_TunUV-UAV_Control_System-red?style=for-the-badge&logo=drone&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>Open Source Unmanned Aerial Vehicle Control Panel</b>
+<br><br>
+<em>Advanced drone control and automation systems</em>
+<br><br>
+<a href="https://github.com/daghlar/TunUV">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+</tr>
+</table>
 
 ### 🔧 **Additional Projects**
 
-#### 🎯 **OSINT & Security Automation**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=osint-automation-suite&theme=radical&hide_border=true&bg_color=0D1117&title_color=E53E3E&text_color=FFFFFF)](https://github.com/daghlar/osint-automation-suite)
-
-#### 🤖 **AI Security & Machine Learning**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=adversarial-ml-detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/adversarial-ml-detector)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=neural-network-security&theme=radical&hide_border=true&bg_color=0D1117&title_color=3182CE&text_color=FFFFFF)](https://github.com/daghlar/neural-network-security)
-
-#### ⚙️ **System Programming & OS Development**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=secure-microkernel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/secure-microkernel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daghlar&repo=custom-browser-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/daghlar/custom-browser-engine)
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/daghlar/osint-automation-suite">
+<img src="https://img.shields.io/badge/🎯_OSINT_Automation-Security_Tools-red?style=for-the-badge&logo=search&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>OSINT & Security Automation Suite</b>
+<br><br>
+<a href="https://github.com/daghlar/osint-automation-suite">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/daghlar/adversarial-ml-detector">
+<img src="https://img.shields.io/badge/🤖_AI_Security-ML_Detector-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>Adversarial ML Detection System</b>
+<br><br>
+<a href="https://github.com/daghlar/adversarial-ml-detector">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/daghlar/neural-network-security">
+<img src="https://img.shields.io/badge/🧠_Neural_Security-Network_Protection-blue?style=for-the-badge&logo=brain&logoColor=white&labelColor=black" />
+</a>
+<br><br>
+<b>Neural Network Security Framework</b>
+<br><br>
+<a href="https://github.com/daghlar/neural-network-security">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/secure-microkernel">
+<img src="https://img.shields.io/badge/⚙️_Secure_Microkernel-OS_Development-white?style=for-the-badge&logo=gear&logoColor=black&labelColor=black" />
+</a>
+<br><br>
+<b>Secure Microkernel Architecture</b>
+<br><br>
+<a href="https://github.com/daghlar/secure-microkernel">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/daghlar/custom-browser-engine">
+<img src="https://img.shields.io/badge/🌐_Browser_Engine-Custom_Development-white?style=for-the-badge&logo=globe&logoColor=black&labelColor=black" />
+</a>
+<br><br>
+<b>Custom Browser Engine Development</b>
+<br><br>
+<a href="https://github.com/daghlar/custom-browser-engine">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
