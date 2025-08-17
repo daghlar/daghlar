@@ -300,23 +300,76 @@ const fullStackExpertise = {
 
 </div>
 
+### 🔴 **Ethical Hacking & Cybersecurity**
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CompTIA_EH_Pro-FF6B35?style=for-the-badge&logo=comptia&logoColor=white&labelColor=black" />
+<br><b>CompTIA Ethical Hacker Pro</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/OPSWAT_EH_Expert-00A3E0?style=for-the-badge&logo=opswat&logoColor=white&labelColor=black" />
+<br><b>OPSWAT Ethical Hacker Expert</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Cisco_EH-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=black" />
+<br><b>Cisco Ethical Hacker</b>
+</td>
+</tr>
+</table>
+
+### 🌐 **Networking & Infrastructure**
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=black" />
+<br><b>Cisco CCNA</b>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/LFCS-FCC624?style=for-the-badge&logo=linux-foundation&logoColor=black&labelColor=black" />
+<br><b>Linux Foundation Certified System Administrator</b>
+</td>
+</tr>
+</table>
+
+### ☁️ **Cloud Security & Management**
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Palo_Alto_CSF-FF6B35?style=for-the-badge&logo=palo-alto-networks&logoColor=white&labelColor=black" />
+<br><b>Palo Alto Cloud Security Fundamentals</b>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Fortinet_FCP-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=black" />
+<br><b>Fortinet FCP FortiManager 7.6 Administrator</b>
+</td>
+</tr>
+</table>
+
+### 🎯 **Specialized Training & Development**
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/LetsDefend_Programming-00D4AA?style=for-the-badge&logo=letsdefend&logoColor=white&labelColor=black" />
+<br><b>LetsDefend Programming for Cybersecurity</b>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Cybrary_PT_EH-FF6B35?style=for-the-badge&logo=cybrary&logoColor=white&labelColor=black" />
+<br><b>Cybrary Penetration Testing & Ethical Hacking</b>
+</td>
+</tr>
+</table>
+
+### 🔬 **Research & Advanced Studies**
+<table align="center">
+<tr>
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/OSCP-IN_PROGRESS-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
-<br><b>Offensive Security Certified Professional</b>
+<br><b>Offensive Security Certified Professional (In Progress)</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/WEB_SECURITY-CERTIFIED-blue?style=for-the-badge&logo=security&logoColor=white&labelColor=black" />
-<br><b>Practical Web Application Security</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/RED_TEAM-ADVANCED-red?style=for-the-badge&logo=target&logoColor=white&labelColor=black" />
-<br><b>Advanced Red Team Infrastructure</b>
-</td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/AI_SECURITY-RESEARCH-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=black" />
-<br><b>AI Security & Adversarial ML</b>
+<br><b>AI Security & Adversarial ML Research</b>
 </td>
 </tr>
 </table>
